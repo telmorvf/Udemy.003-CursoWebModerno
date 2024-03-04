@@ -1,3 +1,10 @@
-console.log("Passo 1");
-console.log("Passo 2");
-console.log("Passo 3");
+// console.log é usado para exibir algo no ecrã !
+console.log("Bom Dia!");
+console.log("Boa Tarde!");
+console.log("Boa Noite!");
+
+/*
+console.log("Bom Dia!");
+console.log("Boa Tarde!");
+console.log("Boa Noite!");
+*/
