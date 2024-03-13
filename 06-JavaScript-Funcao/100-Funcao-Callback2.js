@@ -7,15 +7,16 @@ for (let i in notas) {
         notasBaixas1.push(notas[i])
     }
 }
-
 console.log(notasBaixas1)
 
 // Com callback
 const notasBaixas2 = notas.filter(function (nota) {
     return nota < 7
 })
-
 console.log(notasBaixas2)
+
+const notasBaixas4 = notas.filter(nota => nota < 7 )
+console.log(notasBaixas4)
 
 const notasMenorQue7 = nota => nota < 7
 const notasBaixas3 = notas.filter(notasMenorQue7)
