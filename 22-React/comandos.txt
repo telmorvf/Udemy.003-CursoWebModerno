@@ -1,0 +1,71 @@
+npm i -g create-react-app
+npx -v create-react-app          = 10.7.0
+
+=====================================================================================
+npx create-react-app exercicios
+
+PS C:\Projects\001-Udemy\003-CursoWebModerno\22-React> npx create-react-app exercicios
+
+Creating a new React app in C:\Projects\001-Udemy\003-CursoWebModerno\22-React\exercicios.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+added 1483 packages in 2m
+
+261 packages are looking for funding
+  run `npm fund` for details
+
+Installing template dependencies using npm...
+
+added 63 packages, and changed 1 package in 13s
+
+261 packages are looking for funding
+  run `npm fund` for details
+Removing template package using npm...
+
+
+removed 1 package, and audited 1546 packages in 5s
+
+261 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (2 moderate, 6 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+Success! Created exercicios at C:\Projects\001-Udemy\003-CursoWebModerno\22-React\exercicios
+Inside that directory, you can run several commands:
+
+  npm start <---------------------
+    Starts the development server.
+
+  npm run build <---------------------
+    Bundles the app into static files for production.
+
+  npm test <---------------------
+    Starts the test runner.
+
+  npm run eject <---------------------
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd exercicios <---------------------
+  npm start <---------------------
+
+Happy hacking!
+PS C:\Projects\001-Udemy\003-CursoWebModerno\22-React>
+
+=====================================================================================
+
+cd parta do projeto
+npm start
+
+
+-> Apagar os ficheiro que estão na pasta /src
